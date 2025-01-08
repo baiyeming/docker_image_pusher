@@ -9,4 +9,4 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 dreamacro/clash
 mzz2017/v2raya
-mysql:5.7
+arm64v8/mysql
